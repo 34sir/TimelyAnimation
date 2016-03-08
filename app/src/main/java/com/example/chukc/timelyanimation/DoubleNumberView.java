@@ -65,7 +65,6 @@ public class DoubleNumberView extends LinearLayout {
                     mNumberSwitchViewTen.setNumberBGColor(Color.WHITE);
                     mNumberSwitchViewTen.animateTo(tenIndex);
                 }
-
                 mNumberSwitchView.setNumberColor(Color.rgb(10, 10, 10));
                 mNumberSwitchView.setNumberBGColor(Color.WHITE);
                 mNumberSwitchView.animateTo(oneIndex);
